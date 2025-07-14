@@ -38,3 +38,11 @@ This repository contains 4 hands-on machine learning projects completed as part 
 - **NumPy, Pandas, Matplotlib, Seaborn**
 - **SciPy, Regex, Email Parser**
 
+---
+## Remaining all the details are in "ipynb" file
+
+---
+## Author
+Izaz Khan
+AI Student | ML Intern at ARCH Technologies
+
